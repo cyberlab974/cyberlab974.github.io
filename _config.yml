@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            CyberLab
+tagline:          ''
+description:      'Passionné d’électronique, robotique et de cybersécurité. Je te partage mon univers.'
+url:              https://cyberlab974.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'V'
+  url:            https://github.com/cyberlab974
 
 paginate:         5
 # Custom vars
