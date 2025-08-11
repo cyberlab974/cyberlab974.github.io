@@ -10,13 +10,15 @@ Vous y trouverez de nombreux guides détaillés pour réaliser pas à pas les pr
 
 ---
 
-### 👤 Qui suis-je ?  
+### 👤 Qui suis-je ?
+
 Passionné d'électronique, de robotique, de drones, de cybersécurité et de nombreux domaines liés à la science, j'ai décidé de mettre en place cet espace pour partager avec vous mes connaissances et mes découvertes.  
 Mon objectif : vous fournir des ressources claires, pratiques et motivantes pour concrétiser vos idées.  
 
 ---
 
 ### 🔗 Retrouvez-moi sur les réseaux :  
+
 - [YouTube](https://youtube.com/@cyberlab_974)  
 - [TikTok](https://www.tiktok.com/@cyberlab_974)  
 - [Instagram](https://www.instagram.com/cyberlab_974)  
@@ -27,6 +29,8 @@ Mon objectif : vous fournir des ressources claires, pratiques et motivantes pour
 
 Si vous aimez le monde marin et l'ambiance **solarpunk**, plongez dans mon second projet **Aqualab**.  
 
+- [Site web](https://aqualab974.github.io/)
+- [Github](https://github.com/AquaLab974)
 - [YouTube](https://youtube.com/@AquaLab-y4p)  
 - [TikTok](https://www.tiktok.com/@aqualab_974)  
 - [Instagram](https://www.instagram.com/aqualab_974)  
