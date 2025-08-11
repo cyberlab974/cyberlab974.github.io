@@ -3,7 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
 logo: "/assets/images/logo.png"
-
+title_only_logo: false # Ajouté le logo et le texte.
 
 
 url: https://cyberlab974.hithub.io
