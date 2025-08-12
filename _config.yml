@@ -4,6 +4,7 @@ theme: just-the-docs
 color_scheme: dark
 logo: "/assets/images/logo.png"
 title_only_logo: false # Ajouté le logo et le texte.
+search_enabled: true
 
 
 url: https://cyberlab974.hithub.io
