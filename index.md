@@ -22,12 +22,13 @@ Mon objectif : vous fournir des ressources claires, pratiques et motivantes pour
 - [YouTube](https://youtube.com/@cyberlab_974)  
 - [TikTok](https://www.tiktok.com/@cyberlab_974)  
 - [Instagram](https://www.instagram.com/cyberlab_974)  
+- [Github](https://github.com/cyberlab974)
 
 ---
 
 ### 🌊 Mon autre univers : **Aqualab**  
 
-Si vous aimez le monde marin et l'ambiance **solarpunk**, plongez dans mon second projet **Aqualab**.  
+Si vous aimez le monde marin et l'ambiance **solarpunk**, plongez dans mon second projet **Aqualab** orienté écologie et préservation de la vie marine.
 
 - [Site web](https://aqualab974.github.io/)
 - [Github](https://github.com/AquaLab974)
