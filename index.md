@@ -4,25 +4,25 @@ layout: home
 nav_order: 1
 ---
 
-## Bienvenue sur **Cyberlab** ⚡  
-Le site que j'ai créé pour vous apprendre l'électronique, la robotique et même la cybersécurité… le tout dans une ambiance **cyberpunk**.  
+## Bienvenue sur **StarLab** ⚡  
+Le site que j'ai créé pour vous apprendre l'électronique, la robotique et même l'aéronotique… le tout dans une ambiance starwars et science fiction.  
 Vous y trouverez de nombreux guides détaillés pour réaliser pas à pas les projets présentés ici.  
 
 ---
 
 ### 👤 Qui suis-je ?
 
-Passionné d'électronique, de robotique, de drones, de cybersécurité et de nombreux domaines liés à la science, j'ai décidé de mettre en place cet espace pour partager avec vous mes connaissances et mes découvertes.  
+Passionné d'électronique, de robotique, de drones, d'aéronotique et de nombreux domaines liés à la science, j'ai décidé de mettre en place cet espace pour partager avec vous mes connaissances et mes découvertes.  
 Mon objectif : vous fournir des ressources claires, pratiques et motivantes pour concrétiser vos idées.  
 
 ---
 
 ### 🔗 Retrouvez-moi sur les réseaux :  
 
-- [YouTube](https://youtube.com/@cyberlab_974)  
-- [TikTok](https://www.tiktok.com/@cyberlab_974)  
-- [Instagram](https://www.instagram.com/cyberlab_974)  
-- [Github](https://github.com/cyberlab974)
+- [YouTube](https://youtube.com/@starlab_974)  
+- [TikTok](https://www.tiktok.com/@starlab_974)  
+- [Instagram](https://www.instagram.com/starlab_974)  
+- [Github](https://github.com/starlab974)
 
 ---
 
